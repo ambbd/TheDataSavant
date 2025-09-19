@@ -5,7 +5,7 @@ Welcome to my hub! Synchonizing systems, streamlining insights, and revolutioniz
 
 ###
 
-<p align="left">My name is Amber and I'm a Sr Data Analytics Engineer, whose revolutionizing data one step at a time.</p>
+<p align="left">My name is Amber and I'm a Sr Data Engineer, whose revolutionizing data one step at a time.</p>
 
 ###
 
